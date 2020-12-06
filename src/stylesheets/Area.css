@@ -1,4 +1,4 @@
-.area{
+.area {
   border: 2px solid red;
   position: absolute;
 }
@@ -17,7 +17,7 @@
   height: 100%;
 }
 
-#lowlands{
+#lowlands {
   top: 225px;
   left: 360px;
   width: 265px;
@@ -27,7 +27,7 @@
   height: 100%;
 }
 
-#under_construction{
+#under_construction {
   top: 425px;
   left: 350px;
   width: 300px;
@@ -37,7 +37,7 @@
   height: 100%;
 }
 
-#pariah{
+#pariah {
   top: 450px;
   left: 680px;
   width: 500px;
@@ -47,7 +47,7 @@
   height: 100%;
 }
 
-#python_pass{
+#python_pass {
   top: 10px;
   left: 660px;
   width: 500px;
@@ -57,7 +57,7 @@
   height: 100%;
 }
 
-#badlands{
+#badlands {
   top: 225px;
   left: 700px;
   width: 400px;
