@@ -1,6 +1,6 @@
 import React from "react";
 import { Segment } from "semantic-ui-react";
-import "./stylesheets/App.css";
+import "../stylesheets/App.css";
 
 function App() {
   return (
