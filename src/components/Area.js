@@ -1,5 +1,5 @@
 import React from "react";
-import "./stylesheets/Area.css";
+import "../stylesheets/Area.css";
 
 function Area() {
   return (
