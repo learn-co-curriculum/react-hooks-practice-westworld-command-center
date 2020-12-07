@@ -7,9 +7,10 @@ function Host() {
   return (
     <Card
       className="host selected"
-      onClick={/* On Click what? */}
-      image={/* I wonder what goes here...*/}
+      onClick={/* On Click what? */ null}
+      image={/* I wonder what goes here...*/ ""}
       raised
+      link
     />
   );
 }

@@ -5,7 +5,9 @@ function Area() {
   return (
     <div
       className="area"
-      id={/* Pass in the area name here to make sure this is styled correctly */}
+      id={
+        /* Pass in the area name here to make sure this is styled correctly */ "id"
+      }
     >
       <h3 className="labels">
         {/* Don't just pass in the name from the data...clean that thing up */}

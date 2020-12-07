@@ -16,12 +16,12 @@ function HostInfo() {
   // Value has to match the value in the object to render the right text.
 
   // IMPORTANT: But whether it should be stateful or not is entirely up to you. Change this component however you like.
-  const [options, setOptions] = useState([
+  const [options] = useState([
     { key: "some_area", text: "Some Area", value: "some_area" },
     { key: "another_area", text: "Another Area", value: "another_area" },
   ]);
 
-  const [value, setValue] = useState("some_area");
+  const [value] = useState("some_area");
 
   function handleOptionChange(e, { value }) {
     // the 'value' attribute is given via Semantic's Dropdown component.
@@ -37,7 +37,7 @@ function HostInfo() {
     <Grid>
       <Grid.Column width={6}>
         <Image
-          src={/* pass in the right image here */}
+          src={/* pass in the right image here */ ""}
           floated="left"
           size="small"
           className="hostImg"
