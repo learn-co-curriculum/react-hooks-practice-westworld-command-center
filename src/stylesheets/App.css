@@ -28,5 +28,5 @@ h3 {
   background-size: 100%;
   position: relative;
   width: 100%;
-  height: 695px;
+  min-height: 695px;
 }
