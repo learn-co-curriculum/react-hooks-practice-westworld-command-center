@@ -4,6 +4,10 @@
 
 ## Overview
 
+**Note:** This is a very extensive exercise, much longer than the typical practice
+challenge! Save this until you're feeling very confident with React and want a
+larger project to test your skills.
+
 The Executives at Delos Inc. need you to help them build some software for their
 new theme park: WestWorld. WestWorld is an interactive theme park where guests
 get to experience life in the Wild Wild West with the help of some AI known as
@@ -30,7 +34,9 @@ run down:
 
 ## Setup
 
-Watch a walk through of what's expected to complete this challenge here: https://youtu.be/GhCazAgsJzw
+Watch a walk through of what's expected to complete this challenge here:
+
+[https://youtu.be/GhCazAgsJzw](https://youtu.be/GhCazAgsJzw)
 
 **NOTE**: The original version of this practice challenge was written before
 hooks were introduced to React, but you can achieve the same functionality you
@@ -41,8 +47,9 @@ be using `json-server` to create a RESTful API for our database.
 
 Run `npm install` to install our dependencies.
 
-Then, run `npm start` to start up `json-server` on `http://localhost:3001`
-alongside our React app at `http://localhost:3000`.
+Then, run `npm run server` to start up `json-server` on `http://localhost:3001`.
+
+In another tab, run `npm start` to start up our React app at `http://localhost:3000`.
 
 With `json-server` running, you'll have access to these two endpoints:
 
