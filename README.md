@@ -1,4 +1,4 @@
-# Practice Challenge: WestWorld Command Center
+# [Optional] Practice Challenge: WestWorld Command Center
 
 ![alt main](https://cdn-images-1.medium.com/max/2000/1*BnjGd8N6zu9-Fe6stEJDEg.png)
 
