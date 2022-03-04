@@ -37,7 +37,7 @@ class FetchClient {
   }
 }
 
-const baseUrl = "http://localhost:4000";
+const baseUrl = "http://localhost:3001";
 
 const client = new FetchClient(baseUrl);
 
